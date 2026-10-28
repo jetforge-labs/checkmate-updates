@@ -3,6 +3,26 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 16:44:50 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.1.0</h2>
+<ul>
+<li>Checkmate now speaks English, Français, Português, Italiano and Deutsch. Choose the language in Settings &rsaquo; General.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Checkmate ahora habla English, Français, Português, Italiano y Deutsch (además de español). Elige el idioma en Ajustes &rsaquo; General.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.1.0/Checkmate-1.1.0.dmg" length="8121917" type="application/octet-stream" sparkle:edSignature="UkEG/8ujJwypS2IUslSuVR7Bjplo5mo5haTfG93m3hSPIYtYmYm6PRPLu+c3NfQhz6/PGvqYCiIbhMGPsPC1AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.1.0/Checkmate2-1.delta" sparkle:deltaFrom="1" length="1299970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NgrWsQQdja7mw0iED63NDr7dRKSZZyWCUGCl+GpiwhOh40n8oN8pf8oofGBXvXKdRynW9urIDVVVSZQ0tjk7BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 28 Oct 2026 16:15:28 +0100</pubDate>
             <sparkle:version>1</sparkle:version>

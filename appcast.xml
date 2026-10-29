@@ -3,6 +3,33 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 29 Oct 2026 09:09:02 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.1.1</h2>
+<ul>
+<li>Projects can have an icon: pick one of 48 in the project editor. Projects without an icon show a dot instead of "#".</li>
+<li>Choose the view Checkmate opens on (Inbox, Today, Upcoming, Filters &amp; Labels or Completed) in Settings &rsaquo; General.</li>
+<li>New Settings button in the sidebar; "Help" is now "Shortcuts".</li>
+<li>Fixed: the colour menu showed white squares, and Settings pickers didn't refresh after a change.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Los proyectos pueden tener un icono: elige uno de 48 al editar el proyecto. Los que no tienen icono muestran un punto en lugar de «#».</li>
+<li>Elige la vista con la que se abre Checkmate (Bandeja de entrada, Hoy, Próximo, Filtros y etiquetas o Completado) en Ajustes &rsaquo; General.</li>
+<li>Nuevo botón de Ajustes en la barra lateral; «Ayuda» pasa a llamarse «Atajos».</li>
+<li>Corregido: el menú de colores mostraba cuadrados blancos y los selectores de Ajustes no se actualizaban al cambiarlos.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.1.1/Checkmate-1.1.1.dmg" length="8161307" type="application/octet-stream" sparkle:edSignature="t4fEbql0WrHrl1YTAYxMQoK5JyDBGmW9qlVQlvbW+YQJC40nWI03+fEQT/Wu5pSNMK0mdHC2/FazMD/ReRJ5DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.1.1/Checkmate3-2.delta" sparkle:deltaFrom="2" length="964678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/KjB4D9ESzqjG+0QEnylmyVfv55wXQqou0sAWZUxyJArNmP45t6Kr0V0tcznMFCY/JBubXpJhEGbX5or0BG1Dg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.1.1/Checkmate3-1.delta" sparkle:deltaFrom="1" length="1437506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3HOQ8CAhgLl/rTKqmpQKnLNowkQj+BzUmfVp9s8CJvE+4L5267ust3fN77+Am4UiBuU79U3teOrjYS9M8gK5Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 28 Oct 2026 16:44:50 +0100</pubDate>
             <sparkle:version>2</sparkle:version>

@@ -3,6 +3,32 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Fri, 30 Oct 2026 07:44:24 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.2.0</h2>
+<ul>
+<li>New command line: <code>checkmate</code> reads and edits the same tasks, projects, labels and filters as the app, from Terminal or a script. Run <code>/Applications/Checkmate.app/Contents/Helpers/checkmate install</code> to add it to your PATH, then <code>checkmate --help</code>.</li>
+<li>Changes made from the command line show up in the open app straight away.</li>
+<li>Deleting commands ask for <code>--yes</code> and save a copy of your data first.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Nueva línea de comandos: <code>checkmate</code> lee y edita las mismas tareas, proyectos, etiquetas y filtros que la app, desde el Terminal o desde un script. Ejecuta <code>/Applications/Checkmate.app/Contents/Helpers/checkmate install</code> para añadirlo al PATH y después <code>checkmate --help</code>.</li>
+<li>Los cambios hechos desde la línea de comandos aparecen enseguida en la app abierta.</li>
+<li>Los comandos que borran piden <code>--yes</code> y guardan antes una copia de tus datos.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.0/Checkmate-1.2.0.dmg" length="10570801" type="application/octet-stream" sparkle:edSignature="pIb0RlbFImIGDenlK8M5rAPyxt0XZm9eUx6C6BGc5P+bQh1IjKaqpRLw/nWwxkC+8nB2GQhaz6HwsfsuM4t+Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.0/Checkmate4-3.delta" sparkle:deltaFrom="3" length="2319946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cbHBZwORMucKvvoFGiZhyfTMfkgNGn/pCjRJS+UDpGqjSsTiKv0m0pARMVDbZApLDalZno17716e4xJexpwwDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.0/Checkmate4-2.delta" sparkle:deltaFrom="2" length="2497854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="msg9KBQs+t0tzILg3rEkGoifYAvQ6Q15YdKeADcOqNgOGVEUN7Mf9WdkFHx/KLEv81cYR2jcdnV78LsI7yk5Aw=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.0/Checkmate4-1.delta" sparkle:deltaFrom="1" length="2910454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="buYmMjBYBtPPszZICphKZ6Vn1y5ICh+ELX4OOMydL1pmlFKfZChKTdzq5nPObLd8rPndYf4Tk0opyFufik0iDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 29 Oct 2026 09:09:02 +0100</pubDate>
             <sparkle:version>3</sparkle:version>

@@ -3,6 +3,35 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Fri, 30 Oct 2026 09:51:43 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.2.1</h2>
+<ul>
+<li>Safer backups: copies made before a delete or an import now live in their own folder (<code>backups/snapshots</code>) and no longer push your daily backups out. Existing ones are moved there, nothing is deleted.</li>
+<li>Checkmate now saves a copy of your data before upgrading its database to a newer version.</li>
+<li>Calendar events open in a clearer popover: when, recurrence, a button to join Meet, Zoom, Teams, Webex or Whereby (with dial-in numbers), location with Maps, guests with their replies, and cleaned-up notes.</li>
+<li>Attachments always open and preview the right file, even after you replace one with a corrected file of the same name.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Copias más seguras: las que se hacen antes de borrar o importar ahora van a su propia carpeta (<code>backups/snapshots</code>) y ya no desplazan tus copias diarias. Las existentes se mueven allí, sin borrar nada.</li>
+<li>Checkmate guarda una copia de tus datos antes de actualizar su base de datos a una versión más nueva.</li>
+<li>Los eventos del calendario se abren en un panel más claro: cuándo, repetición, botón para unirse a Meet, Zoom, Teams, Webex o Whereby (con teléfonos de acceso), ubicación con Mapas, invitados con sus respuestas y notas limpias.</li>
+<li>Los adjuntos siempre abren y muestran el archivo correcto, incluso si sustituyes uno por una versión corregida con el mismo nombre.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.1/Checkmate-1.2.1.dmg" length="10931763" type="application/octet-stream" sparkle:edSignature="fODZKFME8KWD/LjZPGUEXkt6cOCT4AmsWkzHr+ITW3qcgCf/fMMLKFpOcKRXOBiPFW0DnaZSTiF+j3pxDagWCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.1/Checkmate5-4.delta" sparkle:deltaFrom="4" length="1678034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oZzycdTap0G6e1hVnd/EzA0/czTSen0apMXlq7dNkLOw7mHG2DmyR32bXd84uR89FJPIfaMzd635R6U3+XVvBg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.1/Checkmate5-3.delta" sparkle:deltaFrom="3" length="2739974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iwBGD2ku8qeAzmnhVOwbkrOK4fgGUqObe385nn3C31D9+OkMiuoAQtiLJgndIMMXqrsLHn57dRHbAx39yLgMDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.1/Checkmate5-2.delta" sparkle:deltaFrom="2" length="2884546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xglQ6LqasliOLVdjSIlw15RDFaURm+925RbYuI6nhtsAedsYB8KXkblScR4cdiHWeSxvhR5WSLb1JOhpjJXyBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.2.1/Checkmate5-1.delta" sparkle:deltaFrom="1" length="3256602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m/9k0K9yGm5wBaLnWFcZlBK9MKMZe2VsExu/uF2ErnI7UGcsUDSeXBuJ8pw9RC+XBEwBaSuLEbWxNIqjxkctCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Fri, 30 Oct 2026 07:44:24 +0100</pubDate>
             <sparkle:version>4</sparkle:version>

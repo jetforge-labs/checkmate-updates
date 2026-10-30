@@ -3,6 +3,36 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Fri, 30 Oct 2026 12:32:46 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.3.0</h2>
+<ul>
+<li>New: sync your tasks between your Macs with iCloud. Turn it on in Settings &gt; Sync; your data travels through your private iCloud and Checkmate runs no servers. It is off by default. The first time you can replace this Mac's data with what is in iCloud (a backup copy is saved first) or combine both.</li>
+<li>A status line above Shortcuts shows when the last sync happened, with a button to sync now.</li>
+<li>Checkmate saves a copy of your data before upgrading its database.</li>
+<li>The Today icon in the sidebar now matches the other icons.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Nuevo: sincroniza tus tareas entre tus Mac con iCloud. Actívalo en Ajustes &gt; Sincronización; tus datos viajan por tu iCloud privado y Checkmate no usa servidores propios. Viene desactivado. La primera vez puedes reemplazar los datos de este Mac por los de iCloud (antes se guarda una copia) o combinar ambos.</li>
+<li>Una línea de estado sobre Atajos muestra cuándo fue la última sincronización, con un botón para sincronizar ahora.</li>
+<li>Checkmate guarda una copia de tus datos antes de actualizar su base de datos.</li>
+<li>El icono de Hoy en la barra lateral ahora es coherente con los demás.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate-1.3.0.dmg" length="11888135" type="application/octet-stream" sparkle:edSignature="VHyT5lImk/eTmw1AvGTSkZ++rDQbiVnWYkLRbgdhZhjPrwqtk8Zk3UjY0oje+fPb+W3/PF3ZmHjCG1VKI7VDCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate6-5.delta" sparkle:deltaFrom="5" length="2225026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Im9pp+TBL2ybMkkjpDTbeQ31wLfOaMzb9nYND0O5qoa8PF/Hd5DvAKvb0ZzhtgRaC1umS3LXW5E7GiSFbcv0CA=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate6-4.delta" sparkle:deltaFrom="4" length="2671778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z6xxiYYKMY+Y3RCs222FKWnW76bDLDQoMoExcsEUesHxa+5BbKxFp1laZ9gy0ZrSvUstG/gKeR0WU84j/TZqAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate6-3.delta" sparkle:deltaFrom="3" length="3530042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HPil9/6FP9WSWNyw3Oc/TeDyaXm6tseesjrpmcA0XJFwshuG/CROrixd4Yf25nVYvwekBzFoB/oa8S7Biyg0Dg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate6-2.delta" sparkle:deltaFrom="2" length="3652818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JA1fqr00YdWgowEUwfGHGYXFalx8CrbB4nYy1xOupJT8AAtjXrqMVWRtNsZN8rRGOiA6qYlcxNYOJWfpB9CPAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.0/Checkmate6-1.delta" sparkle:deltaFrom="1" length="3989170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mxkHIv+2Isr0LnJZO15r0Aia9Y3xvbbt2fVHP6WyE8/yhG7XD3QHgMcOG45SQajGfmDX1/bEyJwqtRFiwLIaAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Fri, 30 Oct 2026 09:51:43 +0100</pubDate>
             <sparkle:version>5</sparkle:version>

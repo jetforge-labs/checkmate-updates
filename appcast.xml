@@ -3,6 +3,30 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.3.4</title>
+            <pubDate>Thu, 05 Nov 2026 16:03:33 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.3.4</h2>
+<ul>
+<li>Changes you make in Checkmate, or that arrive through iCloud, now show up instantly in other apps that read your tasks, such as Macbrow's notch drawer.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Los cambios que haces en Checkmate, o que llegan por iCloud, ahora aparecen al instante en otras apps que leen tus tareas, como el cajón del notch de Macbrow.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate-1.3.4.dmg" length="11926912" type="application/octet-stream" sparkle:edSignature="Y4wFcXogSkZEqAxBP9llK5hBHas0Lz4qX+OF/LxwtfSnAxOLqdCrHuo2N0+bv5K2Xz7HaFo8tPHLK19LklAUAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate10-9.delta" sparkle:deltaFrom="9" length="1118102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bh4j6Q2CeAtB5Yj48HYyKbSeVvyfpcIrrjxg8L2bwKzmnbTYBI1jKMUGbpN8YzkSPZtUmJ3TYIWg1x65BjNEDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate10-8.delta" sparkle:deltaFrom="8" length="1121070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iB7+UNU2tp7zIQSIt3+wItq1kHxr4y+TrM2TyDrylqcrh+e0bVqH0W7ZqM3TpN2Fva4tIdimm2hOFJ1yHeoXBg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate10-7.delta" sparkle:deltaFrom="7" length="1167490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ll4ybkls9pVxCJyQoX+AH3zsaVuQ0cADkwIZtJZukejpz9/h8f2kHwBbIsglLKbvKWy79ZaZYNKSrqWQfUwlAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate10-6.delta" sparkle:deltaFrom="6" length="1365010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mmn0d0q8bcE6OFh2nJ0wXi5dmalWHxplDkvVWtFrfl3BUg2gngaqaUJoNxCAU/yWs5VFlXt/UwiTrjBJcc7JAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.4/Checkmate10-5.delta" sparkle:deltaFrom="5" length="2353526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/uvMHLMul/xhWzEWJlVmp5hlFeEswkkFwcLrFDYZw/vROpkLFQo6t1yZwpmNybA5NhdFYD57upUVzKlECXdODQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.3</title>
             <pubDate>Sun, 01 Nov 2026 09:03:44 +0100</pubDate>
             <sparkle:version>9</sparkle:version>

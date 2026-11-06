@@ -3,6 +3,30 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.3.5</title>
+            <pubDate>Fri, 06 Nov 2026 14:34:59 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.3.5</h2>
+<ul>
+<li>The scroll bar now sits at the right edge of the window instead of next to the task column, and scrolling works anywhere in the window, including the empty areas beside the column.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>La barra de desplazamiento ahora está en el borde derecho de la ventana, no junto a la columna de tareas, y el scroll funciona en cualquier punto de la ventana, también en las zonas vacías a los lados de la columna.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate-1.3.5.dmg" length="11943626" type="application/octet-stream" sparkle:edSignature="AYPhGG2WZUiGBzIiv9hJdptMw4vg1vH2jn77+scgP4kVNoPNJhvQH8iZHFJtLzZgHFgrNaSPvkVndXcpLEhlDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate11-10.delta" sparkle:deltaFrom="10" length="764814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IjuiCjwGm9fbdgEPb3jEeT9GNt7enCJVUGvsCKYiudrQW1LPvLxwr21T7npqV2z82qnXkoe/8pS6d9NxqvODDw=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate11-9.delta" sparkle:deltaFrom="9" length="1269746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0LwgI4+irqpr3NdDcn5kuzPqEmCWh+0VOvQmFtQ3e42s/zHKw77NBs9iEbHoEK3lL9VHaIMqMs816Kk8Dlz3Dg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate11-8.delta" sparkle:deltaFrom="8" length="1277590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DbNahN2BWHRYSQrPbX6bdENApt8VifIBt+Mhl5R3EVdnwKeYMPWKwRD2y4117G9dAcqlGx0cc7UMSR54VyZaAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate11-7.delta" sparkle:deltaFrom="7" length="1291790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jLJD4lgvS8KjGj9PSKj8lAhwf6P0L1ImABInizs7VaTIt+KfrnmYZrN8bMgbHXv4yjuRaaoM2D79Qvt5x/RaCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.5/Checkmate11-6.delta" sparkle:deltaFrom="6" length="1431506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ltcLxIjtBY9M45qFu1KlAzZklwrCmRHWcgH/Lmx7ubSYIWUngr7C1KvJrXZDY1lmU7QLLG1cMnLn7oboC+MkDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.4</title>
             <pubDate>Thu, 05 Nov 2026 16:03:33 +0100</pubDate>
             <sparkle:version>10</sparkle:version>

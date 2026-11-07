@@ -3,6 +3,30 @@
     <channel>
         <title>Checkmate</title>
         <item>
+            <title>1.3.6</title>
+            <pubDate>Sat, 07 Nov 2026 11:24:13 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Checkmate 1.3.6</h2>
+<ul>
+<li>New row of icons at the bottom of the sidebar with the other Jetforge Labs apps. It only shows when there is room, you can hide it with its X or the context menu, and you can bring it back in Settings > General.</li>
+</ul>
+<h2>Novedades</h2>
+<ul>
+<li>Nueva fila de iconos al pie de la barra lateral con las otras apps de Jetforge Labs. Solo aparece cuando hay hueco, puedes ocultarla con su X o desde el menú contextual y recuperarla en Ajustes › General.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate-1.3.6.dmg" length="12161470" type="application/octet-stream" sparkle:edSignature="M317NIMCDT6fW24f5U3K4Q0gjsPSkG/e3qFrWYJGdIbfwhxZNfsPNjxKs8fPna++FVK/yxMW/NE0z1DBrAX7Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate12-11.delta" sparkle:deltaFrom="11" length="1229706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wEbvJYs0G27O9BBsePhZUnr4Lmgh1foMPTS/+2gOm4ndZtcDiIr9xg/QGe3ZNEJXFHPFzFYucqkV/6oUQf7FDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate12-10.delta" sparkle:deltaFrom="10" length="1263486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qZg3UPt7tDZMcMpK+NgUF4kv0/di7IgYdPs2YPnED79UCMAA89epoVhJvLKk0A/HiBjnyfDdhRkIRvsU0x8UCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate12-9.delta" sparkle:deltaFrom="9" length="1633982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WE+aWR5CCZFu0PEL4Mncf95PUNb5FoaGkwNe1XtNcXzXam0uVIJSnlui6AfIi5Y/Y4QTK6RDDsioRASklSS9Cg=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate12-8.delta" sparkle:deltaFrom="8" length="1642250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Cn9eT6adxrpmexAwTO6oafq+J+GziWpu1c5OjfDZ3OaYpb2+rcko9xECV2+O8tbw9ASCZOVMXJlyUUdkY115CA=="/>
+                <enclosure url="https://github.com/jetforge-labs/checkmate-updates/releases/download/v1.3.6/Checkmate12-7.delta" sparkle:deltaFrom="7" length="1634010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LOroWwicAJ9GZyFs2uwgG30T8a/2IUWcOSrVLMIbTHkT3PDUEU8O4HGYNcCKt2E/L4gF7+wga5tC/JVT6kJTDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.5</title>
             <pubDate>Fri, 06 Nov 2026 14:34:59 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
